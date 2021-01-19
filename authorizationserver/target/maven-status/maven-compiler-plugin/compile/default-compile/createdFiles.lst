@@ -1,0 +1,7 @@
+com\example\demo\AuthorizationserverApplication.class
+com\example\demo\StandardUserDetailsService.class
+com\example\demo\User.class
+com\example\demo\UserDataInitializer.class
+com\example\demo\WebSecurityConfiguration.class
+com\example\demo\H2ConsoleWebSecurityConfiguration.class
+com\example\demo\UserRepository.class
